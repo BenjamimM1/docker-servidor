@@ -1,0 +1,13 @@
+{
+  "name": "ubuntu-terminal-backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dockerode": "^4.0.2",
+    "uuid": "^9.0.1",
+    "ws": "^8.18.0"
+  }
+}
