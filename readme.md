@@ -1,0 +1,1 @@
+the A Docker server is what it can do when you're creating a website or something similar. For Ubuntu Linux, a real Terminal Sandbox needs a server to run Docker, and it's the best part because it's very easy. 
